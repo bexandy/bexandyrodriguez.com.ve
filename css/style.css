@@ -110,6 +110,10 @@ header .navbar {
     border: none;
 }
 
+.navbar-toggle{
+    padding: 9px 1px;
+}
+
 .navbar-brand {
     color: #222;
 	text-transform: uppercase;
